@@ -1,13 +1,19 @@
 # Auto-Submit 某学校自动报表提交
 ## 使用说明
 
+
+### 环境配置
+
 使用前请先安装Chrome浏览器
 
 并且按照你的浏览器版本 下载以下驱动放入根目录。
 
 http://npm.taobao.org/mirrors/chromedriver/
 
+最后安装 selenium
+pip install selenium
 
+### 选项配置
 
 打开script.py
 
