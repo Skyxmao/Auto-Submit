@@ -1,5 +1,4 @@
-# Auto-Submit
-
+# Auto-Submit 某学校自动报表提交
 ## 使用说明
 
 使用前请先安装Chrome浏览器
