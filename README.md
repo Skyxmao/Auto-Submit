@@ -11,6 +11,7 @@
 http://npm.taobao.org/mirrors/chromedriver/
 
 最后安装 selenium
+
 pip install selenium
 
 ### 选项配置
