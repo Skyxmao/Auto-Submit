@@ -6,6 +6,20 @@
 
 使用前请先安装Chrome浏览器
 
+Ubuntu无图形界面按照以下安装
+```
+sudo apt-get install libxss1 libappindicator1 libindicator7
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+sudo dpkg -i google-chrome*.deb
+
+sudo apt-get install -f
+
+google-chrome --version # 查看版本
+```
+Windows等正常安装Chrome即可
+
 并且按照你的浏览器版本 下载以下驱动放入根目录。
 
 http://npm.taobao.org/mirrors/chromedriver/
